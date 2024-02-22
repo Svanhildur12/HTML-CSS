@@ -1,0 +1,171 @@
+
+body {
+    margin: 15%;
+    margin-top: 1%;
+}
+html {
+    background-color: white;
+    font-family:Montserrat, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.header{
+    padding: 50px;
+    background-color: #102A43;
+}
+h1{
+    text-align: center;
+    background-color: #102A43;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 0%;
+}
+h2{
+    text-align: center;
+    background-color:#102A43;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-top: 0%;
+    
+}
+.imageContainer{
+   padding: 30px;
+   padding-bottom: 0%;
+    
+}
+img{
+    width: 250px;
+    height: auto;
+    border: 10px solid #9FB3C8 ;
+
+
+}
+.about{
+    padding-top: 0%;
+    padding-left: 2%;
+    text-align: left;
+    
+}
+h3{
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 0%;
+    margin-bottom: 1%;
+    
+}
+h4{
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 1%;
+
+}
+hr{
+    margin: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #9FB3C8;
+}
+mark{
+    background-color: #F7D070;
+}
+.bold{
+    font-weight: bold;
+}
+.redTag {
+    background-color: red;
+    color: white;
+    font-weight: normal;
+}
+.work{
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 2%;
+}
+table{
+    padding-left: 2%;
+}
+th {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #9FB3C8 ;
+    
+}
+td{
+    background-color: #9fb3c82d ;
+    border-bottom: 2px solid #9FB3C8;
+    
+}
+.education,.family,.education,.life{
+    margin-top: 2%;
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 2%;
+}
+ol{
+padding-left: 5%;
+}
+ul{
+    padding-left: 5%;
+}
+blockquote h5{
+    border-left-style: solid  ;
+    border-color: #da4a91;
+    border-width: 12px;
+    height: auto;
+    padding-left: 5%;
+    padding-top: 1%;
+    font-family: Monsterrat,system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+blockquote h6{
+    margin: 20%;
+    margin-top: 25%;
+    border-right-style: solid;
+    border-color: #da4a91;
+    border-width: 12px;
+    height: auto;
+    padding-right: 5%;
+    padding-top: 1%;
+    font-family: Monsterrat,system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+blockquote,h5,h6 {
+    background: white;
+    width: 300px;
+    height: 100px;
+    margin-left: 7%;
+    font-size: 24px;
+    font-weight: normal;  
+}
+em{
+    color:  #9fb3c8;
+    font-size: 24px;
+    font-weight: bold;
+}
+.social{
+    margin-top: 2%;
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 2%;
+    padding-top: 5%;
+}
+h7{
+    font-size: 24px;
+    white-space: pre;
+}
+footer{
+    color: #9fb3c8 ;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    width: 100%;
+    height: auto; 
+}  
+.box{
+    width: auto;
+    height: 150px;
+    border: 1px solid #9FB3C8 ;
+    margin: -2%;
+    background-color: #9FB3C8 ;
+}
+
